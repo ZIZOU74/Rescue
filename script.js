@@ -4,7 +4,10 @@ const equipment = [
   {icon:"🔦", name:"Lampe", meta:"Batterie chargée", state:"OK", cls:""},
   {icon:"🔋", name:"Batterie externe", meta:"Niveau 18%", state:"Recharge", cls:"warn"},
   {icon:"🧣", name:"Couverture de survie", meta:"Présente", state:"OK", cls:""},
-  {icon:"📻", name:"Radio", meta:"Fonctionnelle", state:"OK", cls:""}
+  {icon:"🥧", name:"Ration", meta:"Fonctionnelle", state:"OK", cls:""},
+  {icon:"🛰️", name:"Balise de survie", meta:"Fonctionnelle", state:"OK", cls:""},
+  {icon:"📖", name:"Livret gestes de secours", meta:"Fonctionnelle", state:"OK", cls:""},
+  {icon:"🪢", name:"corde", meta:"Fonctionnelle", state:"OK", cls:""}
 ];
 
 const risks = {

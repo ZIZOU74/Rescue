@@ -1,0 +1,11 @@
+# PDFs
+*.pdf
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# macOS
+.DS_Store
